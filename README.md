@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashant-dayanand
-- 👀 I’m interested in Full Stack Development with Javascript, Blockchain and Cloud Computing.
+- 👀 I’m interested in Full Stack Development with Javascript.
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript Projects.
+- 💞️ I’m looking for to collaborate on Javascript Projects.
 - 📫 Contact me @ linkedin: https://www.linkedin.com/in/prashant-dayanand-b47890180/
 
 <!---
